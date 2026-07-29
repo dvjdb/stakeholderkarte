@@ -1,0 +1,2392 @@
+{
+  "_hinweis": "Über admin.html bearbeiten, herunterladen und auf GitHub unter data/abgeordnete.json ersetzen.",
+  "version": 1,
+  "landtag": {
+    "direktmandate": {
+      "Hessen|1": {
+        "state": "Hessen",
+        "nr": 1,
+        "wahlkreis": "Kassel-Land I",
+        "name": "Hans Christian Göttlicher",
+        "partei": "CDU"
+      },
+      "Hessen|2": {
+        "state": "Hessen",
+        "nr": 2,
+        "wahlkreis": "Kassel-Land II",
+        "name": "Anna-Maria Schölch",
+        "partei": "CDU"
+      },
+      "Hessen|5": {
+        "state": "Hessen",
+        "nr": 5,
+        "wahlkreis": "Waldeck-Frankenberg I",
+        "name": "",
+        "partei": ""
+      },
+      "Hessen|6": {
+        "state": "Hessen",
+        "nr": 6,
+        "wahlkreis": "Waldeck-Frankenberg II",
+        "name": "Claudia Ravensburg",
+        "partei": "CDU"
+      },
+      "Hessen|7": {
+        "state": "Hessen",
+        "nr": 7,
+        "wahlkreis": "Schwalm-Eder I",
+        "name": "Dominik Leyh",
+        "partei": "CDU"
+      },
+      "Hessen|8": {
+        "state": "Hessen",
+        "nr": 8,
+        "wahlkreis": "Schwalm-Eder II",
+        "name": "Christin Ziegler",
+        "partei": "CDU"
+      },
+      "Hessen|9": {
+        "state": "Hessen",
+        "nr": 9,
+        "wahlkreis": "Eschwege-Witzenhausen",
+        "name": "Stefan Schneider",
+        "partei": "CDU"
+      },
+      "Hessen|10": {
+        "state": "Hessen",
+        "nr": 10,
+        "wahlkreis": "Rotenburg",
+        "name": "Lena Arnoldt",
+        "partei": "CDU"
+      },
+      "Hessen|11": {
+        "state": "Hessen",
+        "nr": 11,
+        "wahlkreis": "Hersfeld",
+        "name": "Stefanie Klee",
+        "partei": "CDU"
+      },
+      "Hessen|12": {
+        "state": "Hessen",
+        "nr": 12,
+        "wahlkreis": "Marburg-Biedenkopf I",
+        "name": "Marie-Sophie Künkel",
+        "partei": "CDU"
+      },
+      "Hessen|13": {
+        "state": "Hessen",
+        "nr": 13,
+        "wahlkreis": "Marburg-Biedenkopf II",
+        "name": "Dirk Bamberger",
+        "partei": "CDU"
+      },
+      "Hessen|14": {
+        "state": "Hessen",
+        "nr": 14,
+        "wahlkreis": "Fulda I",
+        "name": "Thomas Hering",
+        "partei": "CDU"
+      },
+      "Hessen|15": {
+        "state": "Hessen",
+        "nr": 15,
+        "wahlkreis": "Fulda II",
+        "name": "Sebastian Müller",
+        "partei": "CDU"
+      },
+      "Hessen|16": {
+        "state": "Hessen",
+        "nr": 16,
+        "wahlkreis": "Lahn-Dill I",
+        "name": "J. Michael Müller",
+        "partei": "CDU"
+      },
+      "Hessen|17": {
+        "state": "Hessen",
+        "nr": 17,
+        "wahlkreis": "Lahn-Dill II",
+        "name": "Frank Steinraths",
+        "partei": "CDU"
+      },
+      "Hessen|18": {
+        "state": "Hessen",
+        "nr": 18,
+        "wahlkreis": "Gießen I",
+        "name": "Michelle Kraft",
+        "partei": "CDU"
+      },
+      "Hessen|19": {
+        "state": "Hessen",
+        "nr": 19,
+        "wahlkreis": "Gießen II",
+        "name": "Lucas Schmitz",
+        "partei": "CDU"
+      },
+      "Hessen|20": {
+        "state": "Hessen",
+        "nr": 20,
+        "wahlkreis": "Vogelsberg",
+        "name": "Jennifer Gießler",
+        "partei": "CDU"
+      },
+      "Hessen|21": {
+        "state": "Hessen",
+        "nr": 21,
+        "wahlkreis": "Limburg-Weilburg I",
+        "name": "Christian Wendel",
+        "partei": "CDU"
+      },
+      "Hessen|22": {
+        "state": "Hessen",
+        "nr": 22,
+        "wahlkreis": "Limburg-Weilburg II",
+        "name": "Andreas Hofmeister",
+        "partei": "CDU"
+      },
+      "Hessen|23": {
+        "state": "Hessen",
+        "nr": 23,
+        "wahlkreis": "Hochtaunus I",
+        "name": "Holger Bellino",
+        "partei": "CDU"
+      },
+      "Hessen|24": {
+        "state": "Hessen",
+        "nr": 24,
+        "wahlkreis": "Hochtaunus II",
+        "name": "Sebastian Sommer",
+        "partei": "CDU"
+      },
+      "Hessen|25": {
+        "state": "Hessen",
+        "nr": 25,
+        "wahlkreis": "Wetterau I",
+        "name": "Tobias Utter",
+        "partei": "CDU"
+      },
+      "Hessen|26": {
+        "state": "Hessen",
+        "nr": 26,
+        "wahlkreis": "Wetterau II",
+        "name": "Patrick Appel",
+        "partei": "CDU"
+      },
+      "Hessen|27": {
+        "state": "Hessen",
+        "nr": 27,
+        "wahlkreis": "Wetterau III",
+        "name": "Annette Wetekam",
+        "partei": "CDU"
+      },
+      "Hessen|28": {
+        "state": "Hessen",
+        "nr": 28,
+        "wahlkreis": "Rheingau-Taunus I",
+        "name": "Ingo Schon",
+        "partei": "CDU"
+      },
+      "Hessen|29": {
+        "state": "Hessen",
+        "nr": 29,
+        "wahlkreis": "Rheingau-Taunus II",
+        "name": "André Stolz",
+        "partei": "CDU"
+      },
+      "Hessen|32": {
+        "state": "Hessen",
+        "nr": 32,
+        "wahlkreis": "Main-Taunus I",
+        "name": "Christian Heinz",
+        "partei": "CDU"
+      },
+      "Hessen|33": {
+        "state": "Hessen",
+        "nr": 33,
+        "wahlkreis": "Main-Taunus II",
+        "name": "Axel Wintermeyer",
+        "partei": "CDU"
+      },
+      "Hessen|40": {
+        "state": "Hessen",
+        "nr": 40,
+        "wahlkreis": "Main-Kinzig I",
+        "name": "Max Schad",
+        "partei": "CDU"
+      },
+      "Hessen|41": {
+        "state": "Hessen",
+        "nr": 41,
+        "wahlkreis": "Main-Kinzig II",
+        "name": "Heiko Kasseckert",
+        "partei": "CDU"
+      },
+      "Hessen|42": {
+        "state": "Hessen",
+        "nr": 42,
+        "wahlkreis": "Main-Kinzig III",
+        "name": "Michael Reul",
+        "partei": "CDU"
+      },
+      "Hessen|43": {
+        "state": "Hessen",
+        "nr": 43,
+        "wahlkreis": "Offenbach-Stadt",
+        "name": "Kim-Sarah Speer",
+        "partei": "CDU"
+      },
+      "Hessen|44": {
+        "state": "Hessen",
+        "nr": 44,
+        "wahlkreis": "Offenbach Land I",
+        "name": "Hartmut Honka",
+        "partei": "CDU"
+      },
+      "Hessen|45": {
+        "state": "Hessen",
+        "nr": 45,
+        "wahlkreis": "Offenbach Land II",
+        "name": "Christoph Mikuschek",
+        "partei": "CDU"
+      },
+      "Hessen|46": {
+        "state": "Hessen",
+        "nr": 46,
+        "wahlkreis": "Offenbach Land III",
+        "name": "Frank Lortz",
+        "partei": "CDU"
+      },
+      "Hessen|47": {
+        "state": "Hessen",
+        "nr": 47,
+        "wahlkreis": "Groß-Gerau I",
+        "name": "Sabine Bächle-Scholz",
+        "partei": "CDU"
+      },
+      "Hessen|48": {
+        "state": "Hessen",
+        "nr": 48,
+        "wahlkreis": "Groß-Gerau II",
+        "name": "Ines Claus",
+        "partei": "CDU"
+      },
+      "Hessen|51": {
+        "state": "Hessen",
+        "nr": 51,
+        "wahlkreis": "Darmstadt-Dieburg I",
+        "name": "Ina Dürr",
+        "partei": "CDU"
+      },
+      "Hessen|52": {
+        "state": "Hessen",
+        "nr": 52,
+        "wahlkreis": "Darmstadt-Dieburg II",
+        "name": "Manfred Pentz",
+        "partei": "CDU"
+      },
+      "Hessen|53": {
+        "state": "Hessen",
+        "nr": 53,
+        "wahlkreis": "Odenwald",
+        "name": "Sandra Funken",
+        "partei": "CDU"
+      },
+      "Hessen|54": {
+        "state": "Hessen",
+        "nr": 54,
+        "wahlkreis": "Bergstraße I",
+        "name": "Alexander Bauer",
+        "partei": "CDU"
+      },
+      "Hessen|55": {
+        "state": "Hessen",
+        "nr": 55,
+        "wahlkreis": "Bergstraße II",
+        "name": "Birgit Heitland",
+        "partei": "CDU"
+      },
+      "Hessen|3": {
+        "state": "Hessen",
+        "nr": 3,
+        "wahlkreis": "Kassel I",
+        "name": "Vanessa Gronemann",
+        "partei": "BÜNDNIS 90/DIE GRÜNEN"
+      },
+      "Hessen|4": {
+        "state": "Hessen",
+        "nr": 4,
+        "wahlkreis": "Kassel II",
+        "name": "Maximilian Bathon",
+        "partei": "CDU"
+      },
+      "Hessen|34": {
+        "state": "Hessen",
+        "nr": 34,
+        "wahlkreis": "Frankfurt am Main I",
+        "name": "Uwe Serke",
+        "partei": "CDU"
+      },
+      "Hessen|35": {
+        "state": "Hessen",
+        "nr": 35,
+        "wahlkreis": "Frankfurt am Main II",
+        "name": "Tanja Jost",
+        "partei": "CDU"
+      },
+      "Hessen|36": {
+        "state": "Hessen",
+        "nr": 36,
+        "wahlkreis": "Frankfurt am Main III",
+        "name": "Dr. Ralf-Norbert Bartelt",
+        "partei": "CDU"
+      },
+      "Hessen|37": {
+        "state": "Hessen",
+        "nr": 37,
+        "wahlkreis": "Frankfurt am Main IV",
+        "name": "Martin-Benedikt Schäfer",
+        "partei": "CDU"
+      },
+      "Hessen|38": {
+        "state": "Hessen",
+        "nr": 38,
+        "wahlkreis": "Frankfurt am Main V",
+        "name": "Marcus Bocklet",
+        "partei": "BÜNDNIS 90/DIE GRÜNEN"
+      },
+      "Hessen|39": {
+        "state": "Hessen",
+        "nr": 39,
+        "wahlkreis": "Frankfurt am Main VI",
+        "name": "Boris Rhein",
+        "partei": "CDU"
+      },
+      "Hessen|50": {
+        "state": "Hessen",
+        "nr": 50,
+        "wahlkreis": "Darmstadt-Stadt II",
+        "name": "Peter Franz",
+        "partei": "CDU"
+      },
+      "Hessen|49": {
+        "state": "Hessen",
+        "nr": 49,
+        "wahlkreis": "Darmstadt-Stadt I",
+        "name": "Hildegard Förster-Heldmann",
+        "partei": "BÜNDNIS 90/DIE GRÜNEN"
+      },
+      "Hessen|30": {
+        "state": "Hessen",
+        "nr": 30,
+        "wahlkreis": "Wiesbaden I",
+        "name": "Astrid Wallmann",
+        "partei": "CDU"
+      },
+      "Hessen|31": {
+        "state": "Hessen",
+        "nr": 31,
+        "wahlkreis": "Wiesbaden II",
+        "name": "Prof. Dr. R. Alexander Lorz",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|14": {
+        "state": "Rheinland-Pfalz",
+        "nr": 14,
+        "wahlkreis": "Bad Neuenahr-Ahrweiler",
+        "name": "Guido Orthen",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|11": {
+        "state": "Rheinland-Pfalz",
+        "nr": 11,
+        "wahlkreis": "Andernach",
+        "name": "Anette Moesta",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|10": {
+        "state": "Rheinland-Pfalz",
+        "nr": 10,
+        "wahlkreis": "Bendorf / Weißenthurm",
+        "name": "Peter Moskopp",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|23": {
+        "state": "Rheinland-Pfalz",
+        "nr": 23,
+        "wahlkreis": "Bernkastel-Kues / Morbach / Kirchberg (Hunsrück)",
+        "name": "Karina Wächter",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|24": {
+        "state": "Rheinland-Pfalz",
+        "nr": 24,
+        "wahlkreis": "Trier / Schweich",
+        "name": "Lars Rieger",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|25": {
+        "state": "Rheinland-Pfalz",
+        "nr": 25,
+        "wahlkreis": "Trier",
+        "name": "Sven Teuber",
+        "partei": "SPD"
+      },
+      "Rheinland-Pfalz|26": {
+        "state": "Rheinland-Pfalz",
+        "nr": 26,
+        "wahlkreis": "Konz / Saarburg",
+        "name": "Johannes Kölling",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|29": {
+        "state": "Rheinland-Pfalz",
+        "nr": 29,
+        "wahlkreis": "Mainz III",
+        "name": "Johannes Schäfer",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|28": {
+        "state": "Rheinland-Pfalz",
+        "nr": 28,
+        "wahlkreis": "Mainz II",
+        "name": "Doris Ahnen",
+        "partei": "SPD"
+      },
+      "Rheinland-Pfalz|20": {
+        "state": "Rheinland-Pfalz",
+        "nr": 20,
+        "wahlkreis": "Vulkaneifel",
+        "name": "Gordon Schnieder",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|27": {
+        "state": "Rheinland-Pfalz",
+        "nr": 27,
+        "wahlkreis": "Mainz I",
+        "name": "Michael Ebling",
+        "partei": "SPD"
+      },
+      "Rheinland-Pfalz|46": {
+        "state": "Rheinland-Pfalz",
+        "nr": 46,
+        "wahlkreis": "Kaiserslautern-Land",
+        "name": "Marcus Klein",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|47": {
+        "state": "Rheinland-Pfalz",
+        "nr": 47,
+        "wahlkreis": "Zweibrücken",
+        "name": "Christoph Gensch",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|21": {
+        "state": "Rheinland-Pfalz",
+        "nr": 21,
+        "wahlkreis": "Bitburg-Prüm",
+        "name": "Michael Ludwig",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|44": {
+        "state": "Rheinland-Pfalz",
+        "nr": 44,
+        "wahlkreis": "Kaiserslautern I",
+        "name": "Andreas Rahm",
+        "partei": "SPD"
+      },
+      "Rheinland-Pfalz|22": {
+        "state": "Rheinland-Pfalz",
+        "nr": 22,
+        "wahlkreis": "Wittlich",
+        "name": "Dennis Junk",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|45": {
+        "state": "Rheinland-Pfalz",
+        "nr": 45,
+        "wahlkreis": "Kaiserslautern II",
+        "name": "Ralf Kretner",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|48": {
+        "state": "Rheinland-Pfalz",
+        "nr": 48,
+        "wahlkreis": "Pirmasens",
+        "name": "Christof Reichert",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|49": {
+        "state": "Rheinland-Pfalz",
+        "nr": 49,
+        "wahlkreis": "Südliche Weinstraße",
+        "name": "Alexander Schweitzer",
+        "partei": "SPD"
+      },
+      "Rheinland-Pfalz|6": {
+        "state": "Rheinland-Pfalz",
+        "nr": 6,
+        "wahlkreis": "Montabaur",
+        "name": "Roland Weimer",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|5": {
+        "state": "Rheinland-Pfalz",
+        "nr": 5,
+        "wahlkreis": "Bad Marienberg (Westerwald) / Westerburg",
+        "name": "Janick Pape",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|8": {
+        "state": "Rheinland-Pfalz",
+        "nr": 8,
+        "wahlkreis": "Koblenz / Lahnstein",
+        "name": "Andreas Birtel",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|7": {
+        "state": "Rheinland-Pfalz",
+        "nr": 7,
+        "wahlkreis": "Diez / Nassau",
+        "name": "Matthias Lammert",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|42": {
+        "state": "Rheinland-Pfalz",
+        "nr": 42,
+        "wahlkreis": "Bad Dürkheim",
+        "name": "Elke Schanzenbächer",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|43": {
+        "state": "Rheinland-Pfalz",
+        "nr": 43,
+        "wahlkreis": "Neustadt an der Weinstraße",
+        "name": "Katharina Schuler",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|2": {
+        "state": "Rheinland-Pfalz",
+        "nr": 2,
+        "wahlkreis": "Altenkirchen (Westerwald)",
+        "name": "Dr. Matthias Reuber",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|1": {
+        "state": "Rheinland-Pfalz",
+        "nr": 1,
+        "wahlkreis": "Betzdorf / Kirchen (Sieg)",
+        "name": "Johannes Behner",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|40": {
+        "state": "Rheinland-Pfalz",
+        "nr": 40,
+        "wahlkreis": "Donnersberg",
+        "name": "Jaqueline Rauschkolb",
+        "partei": "SPD"
+      },
+      "Rheinland-Pfalz|41": {
+        "state": "Rheinland-Pfalz",
+        "nr": 41,
+        "wahlkreis": "Kusel",
+        "name": "Otto Rubly",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|4": {
+        "state": "Rheinland-Pfalz",
+        "nr": 4,
+        "wahlkreis": "Neuwied",
+        "name": "Lana Horstmann",
+        "partei": "SPD"
+      },
+      "Rheinland-Pfalz|3": {
+        "state": "Rheinland-Pfalz",
+        "nr": 3,
+        "wahlkreis": "Linz am Rhein / Rengsdorf",
+        "name": "Jürgen Schmied",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|50": {
+        "state": "Rheinland-Pfalz",
+        "nr": 50,
+        "wahlkreis": "Landau in der Pfalz",
+        "name": "Florian Maier",
+        "partei": "SPD"
+      },
+      "Rheinland-Pfalz|16": {
+        "state": "Rheinland-Pfalz",
+        "nr": 16,
+        "wahlkreis": "Rhein-Hunsrück",
+        "name": "Tobias Vogt",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|17": {
+        "state": "Rheinland-Pfalz",
+        "nr": 17,
+        "wahlkreis": "Bad Kreuznach",
+        "name": "Dr. Helmut Martin",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|18": {
+        "state": "Rheinland-Pfalz",
+        "nr": 18,
+        "wahlkreis": "Kirn / Bad Sobernheim",
+        "name": "Markus Stein",
+        "partei": "SPD"
+      },
+      "Rheinland-Pfalz|51": {
+        "state": "Rheinland-Pfalz",
+        "nr": 51,
+        "wahlkreis": "Germersheim",
+        "name": "Tobias Baumgärtner",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|19": {
+        "state": "Rheinland-Pfalz",
+        "nr": 19,
+        "wahlkreis": "Birkenfeld",
+        "name": "Caroline Pehlke",
+        "partei": "SPD"
+      },
+      "Rheinland-Pfalz|52": {
+        "state": "Rheinland-Pfalz",
+        "nr": 52,
+        "wahlkreis": "Wörth am Rhein",
+        "name": "Florian Bellaire",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|36": {
+        "state": "Rheinland-Pfalz",
+        "nr": 36,
+        "wahlkreis": "Ludwigshafen am Rhein I",
+        "name": "Raymond Höptner",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|35": {
+        "state": "Rheinland-Pfalz",
+        "nr": 35,
+        "wahlkreis": "Frankenthal (Pfalz)",
+        "name": "Barbara Eisenbarth-Wahl",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|15": {
+        "state": "Rheinland-Pfalz",
+        "nr": 15,
+        "wahlkreis": "Cochem-Zell",
+        "name": "Jens Münster",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|34": {
+        "state": "Rheinland-Pfalz",
+        "nr": 34,
+        "wahlkreis": "Alzey",
+        "name": "Heiner Illing",
+        "partei": "SPD"
+      },
+      "Rheinland-Pfalz|33": {
+        "state": "Rheinland-Pfalz",
+        "nr": 33,
+        "wahlkreis": "Worms",
+        "name": "Dirk Beyer",
+        "partei": "SPD"
+      },
+      "Rheinland-Pfalz|39": {
+        "state": "Rheinland-Pfalz",
+        "nr": 39,
+        "wahlkreis": "Speyer",
+        "name": "Michael Wagner",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|38": {
+        "state": "Rheinland-Pfalz",
+        "nr": 38,
+        "wahlkreis": "Mutterstadt",
+        "name": "Johannes Zehfuß",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|37": {
+        "state": "Rheinland-Pfalz",
+        "nr": 37,
+        "wahlkreis": "Ludwigshafen am Rhein II",
+        "name": "Marion Schneid",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|9": {
+        "state": "Rheinland-Pfalz",
+        "nr": 9,
+        "wahlkreis": "Koblenz",
+        "name": "Philip Rünz",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|32": {
+        "state": "Rheinland-Pfalz",
+        "nr": 32,
+        "wahlkreis": "Rhein-Selz / Wonnegau",
+        "name": "Joshua Schmitt",
+        "partei": "SPD"
+      },
+      "Rheinland-Pfalz|31": {
+        "state": "Rheinland-Pfalz",
+        "nr": 31,
+        "wahlkreis": "Ingelheim am Rhein",
+        "name": "Marie Wasem",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|30": {
+        "state": "Rheinland-Pfalz",
+        "nr": 30,
+        "wahlkreis": "Bingen am Rhein",
+        "name": "Michael König",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|13": {
+        "state": "Rheinland-Pfalz",
+        "nr": 13,
+        "wahlkreis": "Remagen / Sinzig",
+        "name": "Petra Schneider",
+        "partei": "CDU"
+      },
+      "Rheinland-Pfalz|12": {
+        "state": "Rheinland-Pfalz",
+        "nr": 12,
+        "wahlkreis": "Mayen",
+        "name": "Martin Reis",
+        "partei": "CDU"
+      }
+    },
+    "listen_hessen": {
+      "Wetterau II": [
+        [
+          "Andreas Lichert",
+          "AfD",
+          "Liste"
+        ],
+        [
+          "Johannes Marxen",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Kathrin Anders",
+          "BÜNDNIS 90/DIE GRÜNEN",
+          "Landesliste"
+        ],
+        [
+          "Lisa Gnadl",
+          "SPD",
+          "Liste"
+        ]
+      ],
+      "Rotenburg": [
+        [
+          "Gerhard Schenk",
+          "AfD",
+          "Liste"
+        ],
+        [
+          "Karina Fissmann",
+          "SPD",
+          "Liste"
+        ]
+      ],
+      "Groß-Gerau I": [
+        [
+          "Kerstin Geis",
+          "SPD",
+          "Liste"
+        ]
+      ],
+      "Marburg-Biedenkopf II": [
+        [
+          "Pascal Schleich",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Julia Herz",
+          "BÜNDNIS 90/DIE GRÜNEN",
+          "Landesliste"
+        ],
+        [
+          "Sebastian Sack",
+          "SPD",
+          "Liste"
+        ]
+      ],
+      "Vogelsberg": [
+        [
+          "Gerhard Bärsch",
+          "AfD",
+          "Liste"
+        ],
+        [
+          "Julia Herz",
+          "BÜNDNIS 90/DIE GRÜNEN",
+          "Landesliste"
+        ],
+        [
+          "Maximilian Ziegler",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "Frankfurt am Main III": [
+        [
+          "Patrick Schenk",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Turgut Yüksel",
+          "SPD",
+          "Liste"
+        ]
+      ],
+      "Hochtaunus I": [
+        [
+          "Marcus Resch",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Elke Barth",
+          "SPD",
+          "Liste"
+        ],
+        [
+          "Sascha Herr",
+          "fraktionslos",
+          "Landesliste – regionale Zuordnung"
+        ]
+      ],
+      "Bergstraße II": [
+        [
+          "Karsten Bletzer",
+          "AfD",
+          "Liste"
+        ],
+        [
+          "Olaf Schwaier",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Josefine Koebe",
+          "SPD",
+          "Liste"
+        ]
+      ],
+      "Lahn-Dill II": [
+        [
+          "Lothar Mulch",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Matthias Büger",
+          "FDP",
+          "Liste"
+        ],
+        [
+          "Cirsten Kunz-Strueder",
+          "SPD",
+          "Liste"
+        ]
+      ],
+      "Groß-Gerau II": [
+        [
+          "Pascal Schleich",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Nina Eisenhardt",
+          "GRÜNE",
+          "Liste"
+        ]
+      ],
+      "Frankfurt am Main II": [
+        [
+          "Anna Nguyen",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Miriam Dahlke",
+          "GRÜNE",
+          "Liste"
+        ],
+        [
+          "Matthias Körner",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "Limburg-Weilburg II": [
+        [
+          "Tobias Eckert",
+          "SPD",
+          "Liste"
+        ]
+      ],
+      "Gießen I": [
+        [
+          "Arno Enners",
+          "AfD",
+          "Liste"
+        ],
+        [
+          "Sandra Weegels",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Katrin Schleenbecker",
+          "GRÜNE",
+          "Liste"
+        ],
+        [
+          "Nina Heidt-Sommer",
+          "SPD",
+          "Liste"
+        ]
+      ],
+      "Darmstadt-Stadt II": [
+        [
+          "Andreas Ewald",
+          "GRÜNE",
+          "Liste"
+        ],
+        [
+          "Bijan Kaffenberger",
+          "SPD",
+          "Liste"
+        ]
+      ],
+      "Frankfurt am Main I": [
+        [
+          "Markus Fuchs",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Martina Feldmayer",
+          "GRÜNE",
+          "Liste"
+        ]
+      ],
+      "Waldeck-Frankenberg II": [
+        [
+          "Jürgen Frömmrich",
+          "GRÜNE",
+          "Liste"
+        ],
+        [
+          "Daniela Sommer",
+          "SPD",
+          "Liste"
+        ]
+      ],
+      "Rheingau-Taunus II": [
+        [
+          "Klaus Gagel",
+          "AfD",
+          "Liste"
+        ],
+        [
+          "Lara Klaes",
+          "BÜNDNIS 90/DIE GRÜNEN",
+          "Landesliste"
+        ],
+        [
+          "Marius Weiß",
+          "SPD",
+          "Liste"
+        ]
+      ],
+      "Offenbach-Stadt": [
+        [
+          "Oliver Stirböck",
+          "FDP",
+          "Liste"
+        ],
+        [
+          "Nadine Gersberg",
+          "SPD",
+          "Liste"
+        ]
+      ],
+      "Frankfurt am Main IV": [
+        [
+          "Yanki Pürsün",
+          "FDP",
+          "Liste"
+        ],
+        [
+          "Mirjam Glanz",
+          "GRÜNE",
+          "Liste"
+        ]
+      ],
+      "Lahn-Dill I": [
+        [
+          "Lothar Mulch",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Stephan Grüger",
+          "SPD",
+          "Liste"
+        ]
+      ],
+      "Hersfeld": [
+        [
+          "Kaya Kinkel",
+          "GRÜNE",
+          "Liste"
+        ],
+        [
+          "Tanja Hartdegen",
+          "SPD",
+          "Liste"
+        ]
+      ],
+      "Wiesbaden I": [
+        [
+          "Roman Bausch",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Mathias Wagner",
+          "GRÜNE",
+          "Liste"
+        ],
+        [
+          "Alexander Hofmann",
+          "SPD",
+          "Liste"
+        ]
+      ],
+      "Odenwald": [
+        [
+          "Moritz Promny",
+          "FDP",
+          "Liste"
+        ],
+        [
+          "Rüdiger Holschuh",
+          "SPD",
+          "Liste"
+        ]
+      ],
+      "Darmstadt-Stadt I": [
+        [
+          "Hartwig Jourdan",
+          "CDU",
+          "Liste"
+        ]
+      ],
+      "Kassel-Stadt II": [
+        [
+          "Esther Kalveram",
+          "SPD",
+          "Liste"
+        ]
+      ],
+      "Schwalm-Eder II": [
+        [
+          "Christoph Sippel",
+          "BÜNDNIS 90/DIE GRÜNEN",
+          "Landesliste"
+        ],
+        [
+          "Wiebke Knell",
+          "FDP",
+          "Liste"
+        ]
+      ],
+      "Wiesbaden II": [
+        [
+          "Robert Lambrou",
+          "AfD",
+          "Liste"
+        ]
+      ],
+      "Darmstadt-Dieburg I": [
+        [
+          "Roman Bausch",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Torsten Leveringhaus",
+          "GRÜNE",
+          "Liste"
+        ]
+      ],
+      "Frankfurt am Main V": [
+        [
+          "Andreas Lobenstein",
+          "AfD",
+          "Liste"
+        ],
+        [
+          "Bernd Erich Vohl",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "Waldeck-Frankenberg I": [
+        [
+          "Daniel May",
+          "GRÜNE",
+          "Liste"
+        ]
+      ],
+      "Hochtaunus II": [
+        [
+          "Marcus Resch",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Stefan Naas",
+          "FDP",
+          "Liste"
+        ]
+      ],
+      "Kassel-Land II": [
+        [
+          "Volker Richter",
+          "AfD",
+          "Liste"
+        ],
+        [
+          "Sascha Meier",
+          "BÜNDNIS 90/DIE GRÜNEN",
+          "Landesliste"
+        ]
+      ],
+      "Offenbach Land III": [
+        [
+          "René Rock",
+          "FDP",
+          "Liste"
+        ]
+      ],
+      "Schwalm-Eder I": [
+        [
+          "Christoph Sippel",
+          "BÜNDNIS 90/DIE GRÜNEN",
+          "Landesliste"
+        ],
+        [
+          "Günter Rudolph",
+          "SPD",
+          "Liste"
+        ]
+      ],
+      "Limburg-Weilburg I": [
+        [
+          "Dimitri Schulz",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Marion Schardt-Sauer",
+          "FDP",
+          "Liste"
+        ]
+      ],
+      "Offenbach Land I": [
+        [
+          "Katy Walther",
+          "GRÜNE",
+          "Liste"
+        ]
+      ],
+      "Kassel-Land I": [
+        [
+          "Sascha Meier",
+          "BÜNDNIS 90/DIE GRÜNEN",
+          "Landesliste"
+        ],
+        [
+          "Oliver Ulloth",
+          "SPD",
+          "Liste"
+        ]
+      ],
+      "Wetterau I": [
+        [
+          "Christian Rohde",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Kathrin Anders",
+          "BÜNDNIS 90/DIE GRÜNEN",
+          "Landesliste"
+        ],
+        [
+          "Matthias Körner",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "Wetterau III": [
+        [
+          "Kathrin Anders",
+          "BÜNDNIS 90/DIE GRÜNEN",
+          "Landesliste"
+        ],
+        [
+          "Matthias Körner",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "Main-Taunus I": [
+        [
+          "Heiko Scholz",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Dirk Gaw",
+          "fraktionslos",
+          "Landesliste – regionale Zuordnung"
+        ]
+      ],
+      "Rheingau-Taunus I": [
+        [
+          "Dr. Frank Grobe",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Lara Klaes",
+          "BÜNDNIS 90/DIE GRÜNEN",
+          "Landesliste"
+        ]
+      ],
+      "Marburg-Biedenkopf I": [
+        [
+          "Christian Rohde",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Julia Herz",
+          "BÜNDNIS 90/DIE GRÜNEN",
+          "Landesliste"
+        ]
+      ],
+      "Eschwege-Witzenhausen": [
+        [
+          "Felix Martin",
+          "BÜNDNIS 90/DIE GRÜNEN",
+          "Landesliste"
+        ],
+        [
+          "Hans-Jürgen Müller",
+          "BÜNDNIS 90/DIE GRÜNEN",
+          "Landesliste"
+        ]
+      ],
+      "Offenbach-Land II": [
+        [
+          "Maximilian Müger",
+          "fraktionslos",
+          "Landesliste – regionale Zuordnung"
+        ]
+      ],
+      "Frankfurt am Main VI": [
+        [
+          "Anna Nguyen",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "Offenbach-Land III": [
+        [
+          "Jochen K. Roos",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "Main-Taunus II": [
+        [
+          "Heiko Scholz",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "Bergstraße I": [
+        [
+          "Olaf Schwaier",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "Gießen II": [
+        [
+          "Sandra Weegels",
+          "AfD",
+          "Landesliste"
+        ]
+      ]
+    },
+    "listen_rheinland_pfalz": {
+      "1": [
+        [
+          "Sabine Bätzing-Lichtenthäler",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "2": [
+        [
+          "Bernhard Cürten",
+          "AfD",
+          "Landesliste – regionale Zuordnung"
+        ]
+      ],
+      "4": [
+        [
+          "Dr. Jan Bollinger",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Michael Büge",
+          "AfD",
+          "Landesliste – regionale Zuordnung"
+        ]
+      ],
+      "5": [
+        [
+          "Hendrik Hering",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "7": [
+        [
+          "Ulrike Beckmann",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Josef Philip Winkler",
+          "GRÜNE",
+          "Landesliste"
+        ]
+      ],
+      "8": [
+        [
+          "Robin Classen",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Anna Köbberling",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "9": [
+        [
+          "Carl-Bernhard von Heusinger",
+          "GRÜNE",
+          "Landesliste"
+        ],
+        [
+          "Joachim Paul",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "11": [
+        [
+          "Clemens Hoch",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "13": [
+        [
+          "Susanne Müller",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "15": [
+        [
+          "Ralf Kelch",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Benedikt Oster",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "16": [
+        [
+          "Ralf Schönborn",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "17": [
+        [
+          "Dr. Claudia Eider",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "18": [
+        [
+          "Ruth Greb",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "19": [
+        [
+          "Claudia von Bohr",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "20": [
+        [
+          "Carsten Propp",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "21": [
+        [
+          "Nico Steinbach",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "22": [
+        [
+          "Lena Werner",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "23": [
+        [
+          "Bettina Brück",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "25": [
+        [
+          "Natalie Cramme-Hill",
+          "GRÜNE",
+          "Landesliste"
+        ],
+        [
+          "Stephan Stritter",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "27": [
+        [
+          "Katharina Binz",
+          "GRÜNE",
+          "Landesliste"
+        ]
+      ],
+      "28": [
+        [
+          "Katrin Eder",
+          "GRÜNE",
+          "Landesliste"
+        ]
+      ],
+      "29": [
+        [
+          "Fabian Ehmann",
+          "GRÜNE",
+          "Landesliste"
+        ]
+      ],
+      "30": [
+        [
+          "Martin Kallweitt",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "31": [
+        [
+          "Nina Klinkel",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "32": [
+        [
+          "Pia Schellhammer",
+          "GRÜNE",
+          "Landesliste"
+        ]
+      ],
+      "33": [
+        [
+          "Tom Kotzian",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "34": [
+        [
+          "Damian Lohr",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "35": [
+        [
+          "Magali Leidig-Petermann",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "36": [
+        [
+          "Frank Senger",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "37": [
+        [
+          "Gregory Scholz",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "38": [
+        [
+          "Daniel Schäffner",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "39": [
+        [
+          "Dr. Marlene Gottwald",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "40": [
+        [
+          "Paul Bunjes",
+          "GRÜNE",
+          "Landesliste"
+        ],
+        [
+          "Lisett Stuppy",
+          "GRÜNE",
+          "Landesliste"
+        ]
+      ],
+      "41": [
+        [
+          "Dr. Oliver Kusch",
+          "SPD",
+          "Landesliste"
+        ],
+        [
+          "Jürgen Klein",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "44": [
+        [
+          "Benjamin Haupt",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "45": [
+        [
+          "Dirk Bisanz",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "47": [
+        [
+          "Daniela Stauch",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "48": [
+        [
+          "Catalina Monzon",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Ferdinand Weber",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "49": [
+        [
+          "Lea Heidbreder",
+          "GRÜNE",
+          "Landesliste"
+        ]
+      ],
+      "50": [
+        [
+          "Jürgen Wiedenhöfer",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "51": [
+        [
+          "Albert Breininger",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Eugen Ziegler",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "52": [
+        [
+          "Katrin Rehak-Nitsche",
+          "SPD",
+          "Landesliste"
+        ],
+        [
+          "Bailey Wollenweber",
+          "AfD",
+          "Landesliste"
+        ]
+      ]
+    },
+    "mitglieder_saarland": {
+      "Saarbrücken": [
+        [
+          "Alexandra Becker",
+          "SPD"
+        ],
+        [
+          "Pascal Arweiler",
+          "SPD"
+        ],
+        [
+          "Kira Braun",
+          "SPD"
+        ],
+        [
+          "Ulrich Commerçon",
+          "SPD"
+        ],
+        [
+          "Friedrich Josef Dörr",
+          "AfD"
+        ],
+        [
+          "Petra Fretter",
+          "CDU"
+        ],
+        [
+          "Sascha Haas",
+          "SPD"
+        ],
+        [
+          "Réka Klein",
+          "SPD"
+        ],
+        [
+          "Stephanie Meiser",
+          "SPD"
+        ],
+        [
+          "Frank Dieter Schmidt",
+          "SPD"
+        ],
+        [
+          "Flora-Elisa Schröder",
+          "SPD"
+        ],
+        [
+          "Damhat Sisamci",
+          "SPD"
+        ],
+        [
+          "Anja Wagner-Scheid",
+          "CDU"
+        ],
+        [
+          "Bernd Wegner",
+          "CDU"
+        ],
+        [
+          "Sascha Zehner",
+          "CDU"
+        ]
+      ],
+      "Saarlouis": [
+        [
+          "Timo Ahr",
+          "SPD"
+        ],
+        [
+          "Carsten Becker",
+          "AfD"
+        ],
+        [
+          "Petra Berg",
+          "SPD"
+        ],
+        [
+          "Julia Harenz",
+          "SPD"
+        ],
+        [
+          "Dagmar Heib",
+          "CDU"
+        ],
+        [
+          "Martina Holzner",
+          "SPD"
+        ],
+        [
+          "Reinhold Jost",
+          "SPD"
+        ],
+        [
+          "David Maaß",
+          "SPD"
+        ],
+        [
+          "Sandra Quinten",
+          "SPD"
+        ],
+        [
+          "Anke Rehlinger",
+          "SPD"
+        ],
+        [
+          "Dr. Christopher Salm",
+          "CDU"
+        ],
+        [
+          "Florian Schäfer",
+          "SPD"
+        ],
+        [
+          "Raphael Schäfer",
+          "CDU"
+        ],
+        [
+          "Sebastian Schmitt",
+          "SPD"
+        ],
+        [
+          "Stefan Thielen",
+          "CDU"
+        ],
+        [
+          "Frank Wagner",
+          "CDU"
+        ],
+        [
+          "Patrick Waldraff",
+          "CDU"
+        ]
+      ],
+      "Neunkirchen": [
+        [
+          "Christina Baltes",
+          "SPD"
+        ],
+        [
+          "Pascal Conigliaro",
+          "SPD"
+        ],
+        [
+          "Timo P. Gros",
+          "CDU"
+        ],
+        [
+          "Tobias Hans",
+          "CDU"
+        ],
+        [
+          "Sandra Johann",
+          "CDU"
+        ],
+        [
+          "Dr. Magnus Jung",
+          "SPD"
+        ],
+        [
+          "Sevim Kaya-Karadağ",
+          "SPD"
+        ],
+        [
+          "Stefan Löw",
+          "SPD"
+        ],
+        [
+          "Maximilian Raber",
+          "SPD"
+        ],
+        [
+          "Jonas Reiter",
+          "CDU"
+        ],
+        [
+          "Hermann-Josef Scharf",
+          "CDU"
+        ],
+        [
+          "Christoph Rudolf Schaufert",
+          "AfD"
+        ],
+        [
+          "Nadia Schindelhauer",
+          "SPD"
+        ],
+        [
+          "Jutta Schmitt-Lang",
+          "CDU"
+        ],
+        [
+          "Sebastian Schorr",
+          "CDU"
+        ],
+        [
+          "Christine Ursula Streichert-Clivot",
+          "SPD"
+        ],
+        [
+          "Alwin Theobald",
+          "CDU"
+        ],
+        [
+          "Stephan Toscani",
+          "CDU"
+        ],
+        [
+          "Heike Sylvia Winzent",
+          "SPD"
+        ]
+      ]
+    }
+  },
+  "bundestag": {
+    "direktmandate": {
+      "166": [
+        "Jan-Wilhelm Pohlmann",
+        "CDU"
+      ],
+      "167": [
+        "Daniel Bettermann",
+        "SPD"
+      ],
+      "168": [
+        "Wilhelm Gebhard",
+        "CDU"
+      ],
+      "169": [
+        null,
+        null
+      ],
+      "170": [
+        "Sören Bartol",
+        "SPD"
+      ],
+      "171": [
+        "Johannes Volkmann",
+        "CDU"
+      ],
+      "172": [
+        "Frederik Bouffier",
+        "CDU"
+      ],
+      "173": [
+        "Michael Brand",
+        "CDU"
+      ],
+      "174": [
+        "Johannes Wiegelmann",
+        "CDU"
+      ],
+      "175": [
+        "Markus Koob",
+        "CDU"
+      ],
+      "176": [
+        "Dr. Thomas Pauls",
+        "CDU"
+      ],
+      "177": [
+        "Klaus-Peter Willsch",
+        "CDU"
+      ],
+      "178": [
+        "Dr. Stefan Korbach",
+        "CDU"
+      ],
+      "179": [
+        "Pascal Reddig",
+        "CDU"
+      ],
+      "180": [
+        "Norbert Altenkamp",
+        "CDU"
+      ],
+      "181": [
+        null,
+        null
+      ],
+      "182": [
+        null,
+        null
+      ],
+      "183": [
+        null,
+        null
+      ],
+      "184": [
+        "Björn Simon",
+        "CDU"
+      ],
+      "185": [
+        null,
+        null
+      ],
+      "186": [
+        "Patricia Lips",
+        "CDU"
+      ],
+      "187": [
+        "Dr. Michael Meister",
+        "CDU"
+      ],
+      "196": [
+        "Ellen Demuth",
+        "CDU"
+      ],
+      "197": [
+        "Mechthild Heil",
+        "CDU"
+      ],
+      "198": [
+        "Josef Oster",
+        "CDU"
+      ],
+      "199": [
+        "Dr. Marlon Bröhr",
+        "CDU"
+      ],
+      "200": [
+        "Julia Klöckner",
+        "CDU"
+      ],
+      "201": [
+        "Patrick Schnieder",
+        "CDU"
+      ],
+      "202": [
+        null,
+        null
+      ],
+      "203": [
+        "Harald Orthey",
+        "CDU"
+      ],
+      "204": [
+        null,
+        null
+      ],
+      "205": [
+        "Jan Metzler",
+        "CDU"
+      ],
+      "206": [
+        null,
+        null
+      ],
+      "207": [
+        "Johannes Steiniger",
+        "CDU"
+      ],
+      "208": [
+        "Matthias Mieves",
+        "SPD"
+      ],
+      "209": [
+        "Florian Bilic",
+        "CDU"
+      ],
+      "210": [
+        "Dr. Thomas Gebhart",
+        "CDU"
+      ],
+      "296": [
+        "Josephine Ortleb",
+        "SPD"
+      ],
+      "297": [
+        "Philip Hoffmann",
+        "CDU"
+      ],
+      "298": [
+        "Roland Theis",
+        "CDU"
+      ],
+      "299": [
+        "Esra Limbacher",
+        "SPD"
+      ]
+    },
+    "listenmitglieder": {
+      "166": [
+        [
+          "Jan Nolte",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Nicole Hess",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Esther Dilcher",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "168": [
+        [
+          "Violetta Bock",
+          "Die Linke",
+          "Landesliste"
+        ],
+        [
+          "Awet Tesfaiesus",
+          "GRÜNE",
+          "Landesliste"
+        ]
+      ],
+      "170": [
+        [
+          "Jan Hendrik Feser",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "171": [
+        [
+          "Dagmar Schmidt",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "173": [
+        [
+          "Desiree Becker",
+          "Die Linke",
+          "Landesliste"
+        ]
+      ],
+      "176": [
+        [
+          "Julian Schmidt",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Natalie Pawlik",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "177": [
+        [
+          "Robin Jünger",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Martin Rabanus",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "179": [
+        [
+          "Thomas Fetsch",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Ayse Asar",
+          "GRÜNE",
+          "Landesliste"
+        ]
+      ],
+      "180": [
+        [
+          "Christian Douglas",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Dr. Anna Lührmann",
+          "GRÜNE",
+          "Landesliste"
+        ],
+        [
+          "Nancy Faeser",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "182": [
+        [
+          "Janine Wissler",
+          "Die Linke",
+          "Landesliste"
+        ],
+        [
+          "Omid Nouripour",
+          "GRÜNE",
+          "Landesliste"
+        ]
+      ],
+      "184": [
+        [
+          "Uwe Schulz",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Jörg Cezanne",
+          "Die Linke",
+          "Landesliste"
+        ],
+        [
+          "Tarek Al-Wazir",
+          "GRÜNE",
+          "Landesliste"
+        ]
+      ],
+      "185": [
+        [
+          "Pierre Lamely",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "198": [
+        [
+          "Dr. Thorsten Rudolph",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "199": [
+        [
+          "Andreas Bleck",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "200": [
+        [
+          "Thomas Stephan",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "201": [
+        [
+          "Julian Joswig",
+          "GRÜNE",
+          "Landesliste"
+        ]
+      ],
+      "202": [
+        [
+          "Nicole Höchst",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "203": [
+        [
+          "Corinna Rüffer",
+          "GRÜNE",
+          "Landesliste"
+        ],
+        [
+          "Verena Hubertz",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "204": [
+        [
+          "Dr. Tanja Machalet",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "205": [
+        [
+          "Sebastian Münzenmaier",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Gerhard Trabert",
+          "Die Linke",
+          "Landesliste"
+        ],
+        [
+          "Julia Stange",
+          "Die Linke",
+          "Landesliste"
+        ],
+        [
+          "Daniel Baldy",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "206": [
+        [
+          "Jörg Zirwes",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "207": [
+        [
+          "Dr. Armin Grau",
+          "GRÜNE",
+          "Landesliste"
+        ],
+        [
+          "Misbah Khan",
+          "GRÜNE",
+          "Landesliste"
+        ]
+      ],
+      "208": [
+        [
+          "Isabel Mackensen-Geis",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "209": [
+        [
+          "Iris Nieland",
+          "AfD",
+          "Landesliste"
+        ]
+      ],
+      "210": [
+        [
+          "Bernd Schattner",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Angelika Glöckner",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "296": [
+        [
+          "Boris Gamanov",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Carsten Becker",
+          "AfD",
+          "Landesliste"
+        ],
+        [
+          "Jeanne Dillschneider",
+          "GRÜNE",
+          "Landesliste"
+        ]
+      ],
+      "297": [
+        [
+          "Dr. Michael Arndt",
+          "Die Linke",
+          "Landesliste"
+        ]
+      ],
+      "181": [
+        [
+          "Deborah Düring",
+          "GRÜNE",
+          "Landesliste"
+        ],
+        [
+          "Armand Zorn",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "172": [
+        [
+          "Felix Döring",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "169": [
+        [
+          "Dr. Philipp Rottwilm",
+          "SPD",
+          "Landesliste"
+        ]
+      ],
+      "167": [
+        [
+          "Boris Mijatović",
+          "GRÜNE",
+          "Landesliste"
+        ]
+      ]
+    }
+  }
+}
